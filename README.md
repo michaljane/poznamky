@@ -1,3 +1,5 @@
 
 ## škola
-### nvm co dělat
+### OS
+nvm co dělat, dnes jsem nestíhal
+
